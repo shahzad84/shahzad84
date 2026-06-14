@@ -171,4 +171,4 @@ Chat with custom documents and knowledge bases using Retrieval-Augmented Generat
 <p align="center">
 🚀 Open to Software Engineer, AI Engineer, Python Developer, and Full Stack Developer opportunities.
 </p>
-```
+
