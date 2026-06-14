@@ -1,8 +1,9 @@
-<h1 align="center">Hi 👋, I'm Shahzad</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;LLM+%26+RAG+Developer;Building+AI-Powered+Applications" />
+</p>
+# Hi 👋, I'm Shahzad
 
-<h3 align="center">
-Software Engineer | AI Engineer | Full Stack Developer
-</h3>
+### Software Engineer | AI Engineer | Full Stack Developer
 
 <p align="center">
 Building AI-powered applications, intelligent agents, and scalable web platforms.
@@ -16,7 +17,9 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 - 💻 Software Engineer with experience in AI and Full Stack Development
 - 🤖 Building AI Agents, RAG Applications, and LLM-powered products
 - 🌱 Currently exploring Multi-Agent Systems and Advanced AI Workflows
-- 🎥 Coding Educator & Technical Content Creator
+- 🎥 Coding Educator & Technical Content Creator on YouTube
+- ☁️ Experience with AWS, Docker, and production-ready deployments
+- 🔍 Passionate about AI automation, LLM applications, and scalable backend systems
 - ⚡ Interested in solving real-world problems using AI
 
 ---
@@ -27,6 +30,8 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 ### Frontend
 
@@ -39,69 +44,103 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
 ### Database
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 
-### AI & ML
+### AI & LLM Engineering
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Whisper-AI-blue?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Pipeline-orange?style=for-the-badge)
+![LLMs](https://img.shields.io/badge/LLMs-GenerativeAI-purple?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector-Database-green?style=for-the-badge)
+
+### Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
 ---
 
 ## 🔥 Featured Projects
 
+### 👑 Shadow Monarch
+
+Multi-user AI platform powered by LLMs, RAG pipelines, Whisper, and vector databases.
+
+**Highlights**
+- Multi-user architecture
+- RAG-powered knowledge retrieval
+- Whisper speech-to-text integration
+- Text and audio interactions
+- Scalable Flask backend
+- Vector database implementation
+
 ### 🤖 AI Customer Support Agent
-Intelligent customer support system powered by LLMs with live chat capabilities.
+
+AI-powered customer support assistant with intelligent query handling and live chat capabilities.
 
 ### 🎬 AI Video Summarizer
-Generate concise summaries from long-form video content.
+
+Generate concise summaries from long-form video content using AI.
 
 ### 🎙️ Subtitle Generator
-Automatic subtitle generation using Whisper and speech-to-text models.
+
+Automatic subtitle generation using Whisper speech-to-text models.
 
 ### 📚 RAG Chatbot
-Retrieval-Augmented Generation chatbot for custom knowledge bases.
 
-### 🤝 Multi-Agent AI System
-Collaborative AI agents designed to solve complex workflows.
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shahzad84&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahzad84&layout=compact&theme=tokyonight" />
-</p>
+Chat with custom documents and knowledge bases using Retrieval-Augmented Generation.
 
 ---
 
 ## 🎯 Current Focus
 
 - AI Agents
-- RAG Systems
-- FastAPI Applications
+- Multi-Agent Systems
+- RAG Pipelines
 - LLM Engineering
+- FastAPI Applications
 - Full Stack AI Products
+- AI Automation Systems
+- Cloud Deployment
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Agentic AI Systems
+- Production LLM Engineering
+- Scalable RAG Architectures
+- System Design
+- Cloud Infrastructure
+
+---
+
+## 💡 Philosophy
+
+> Build software that saves time, solves problems, and creates real-world impact.
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: [LINKEDIN](https://www.linkedin.com/in/shahzad84/)
-- Portfolio: [PORTFOLIO](https://devstorein.netlify.app/)
+- LinkedIn: https://www.linkedin.com/in/shahzad84/
+- Portfolio: https://devstorein.netlify.app/
 
 ---
 
 <p align="center">
 💡 Turning ideas into intelligent software.
+</p>
+
+<p align="center">
+🚀 Open to Software Engineer, AI Engineer, Python Developer, and Full Stack Developer opportunities.
 </p>
