@@ -1,28 +1,49 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=800&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;LLM+%26+RAG+Developer;Building+AI-Powered+Applications" />
-</p>
-# Hi 👋, I'm Shahzad
 
-### Software Engineer | AI Engineer | Full Stack Developer
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;LLM+%26+RAG+Developer;Building+AI-Powered+Applications" />
+</p>
+
+<h1 align="center">Md Shahzad Md Arif</h1>
+
+<h3 align="center">
+Software Engineer • AI Engineer • Full Stack Developer
+</h3>
 
 <p align="center">
 Building AI-powered applications, intelligent agents, and scalable web platforms.
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shahzad84&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+
 
 ## 🚀 About Me
 
 - 🎓 Master's in Computer Science
-- 💻 Software Engineer with experience in AI and Full Stack Development
+- 💻 Software Engineer specializing in AI-powered applications and scalable backend systems
 - 🤖 Building AI Agents, RAG Applications, and LLM-powered products
 - 🌱 Currently exploring Multi-Agent Systems and Advanced AI Workflows
-- 🎥 Coding Educator & Technical Content Creator on YouTube
+- 🎥 Coding Educator & Technical Content Creator
 - ☁️ Experience with AWS, Docker, and production-ready deployments
 - 🔍 Passionate about AI automation, LLM applications, and scalable backend systems
-- ⚡ Interested in solving real-world problems using AI
+- ⚡ Focused on building production-ready software that delivers real-world impact
 
----
+
+
+## 💼 What I Work With
+
+- Python & TypeScript
+- Flask & FastAPI
+- React & Vite
+- Node.js & Express.js
+- PostgreSQL & MongoDB
+- LLMs & RAG Pipelines
+- OpenAI & Whisper
+- Docker & AWS
+
+
 
 ## 🛠️ Tech Stack
 
@@ -67,39 +88,38 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 
----
+
 
 ## 🔥 Featured Projects
 
 ### 👑 Shadow Monarch
 
-Multi-user AI platform powered by LLMs, RAG pipelines, Whisper, and vector databases.
+Multi-user AI platform integrating LLMs, RAG pipelines, Whisper, and vector databases.
 
-**Highlights**
-- Multi-user architecture
-- RAG-powered knowledge retrieval
-- Whisper speech-to-text integration
-- Text and audio interactions
-- Scalable Flask backend
-- Vector database implementation
+**Key Features**
+- Multi-user AI workspace
+- Intelligent document retrieval
+- Audio and text interactions
+- Scalable Flask architecture
+- Vector search powered knowledge base
 
 ### 🤖 AI Customer Support Agent
 
-AI-powered customer support assistant with intelligent query handling and live chat capabilities.
+AI-powered customer support assistant capable of handling user queries through intelligent conversations and live chat interactions.
 
 ### 🎬 AI Video Summarizer
 
-Generate concise summaries from long-form video content using AI.
+Generate concise summaries from long-form video content using AI-powered processing pipelines.
 
 ### 🎙️ Subtitle Generator
 
-Automatic subtitle generation using Whisper speech-to-text models.
+Automatic subtitle generation using Whisper speech-to-text models for videos and audio content.
 
 ### 📚 RAG Chatbot
 
 Chat with custom documents and knowledge bases using Retrieval-Augmented Generation.
 
----
+
 
 ## 🎯 Current Focus
 
@@ -112,7 +132,7 @@ Chat with custom documents and knowledge bases using Retrieval-Augmented Generat
 - AI Automation Systems
 - Cloud Deployment
 
----
+
 
 ## 📚 Currently Learning
 
@@ -122,20 +142,27 @@ Chat with custom documents and knowledge bases using Retrieval-Augmented Generat
 - System Design
 - Cloud Infrastructure
 
----
+
 
 ## 💡 Philosophy
 
 > Build software that saves time, solves problems, and creates real-world impact.
 
----
+
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/in/shahzad84/
-- Portfolio: https://devstorein.netlify.app/
+<p align="left">
+<a href="https://www.linkedin.com/in/shahzad84/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
 
----
+<a href="https://devstorein.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel" />
+</a>
+</p>
+
+
 
 <p align="center">
 💡 Turning ideas into intelligent software.
@@ -144,3 +171,4 @@ Chat with custom documents and knowledge bases using Retrieval-Augmented Generat
 <p align="center">
 🚀 Open to Software Engineer, AI Engineer, Python Developer, and Full Stack Developer opportunities.
 </p>
+```
