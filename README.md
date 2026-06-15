@@ -13,9 +13,9 @@ Software Engineer • AI Engineer • Full Stack Developer
 Building AI-powered applications, intelligent agents, and scalable web platforms.
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shahzad84&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+</p> -->
 
 
 
