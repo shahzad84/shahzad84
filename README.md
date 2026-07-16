@@ -1,12 +1,12 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;Full+Stack+Developer;LLM+%26+RAG+Developer;Building+AI-Powered+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&pause=1000&center=true&vCenter=true&width=900&lines=Software+Engineer;AI+Engineer;LLM+%26+RAG+Developer;Building+AI-Powered+Applications" />
 </p>
 
 <h1 align="center">Md Shahzad Md Arif</h1>
 
 <h3 align="center">
-Software Engineer • AI Engineer • Full Stack Developer
+Software Engineer • AI Engineer
 </h3>
 
 <p align="center">
@@ -26,7 +26,7 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 - 🤖 Building AI Agents, RAG Applications, and LLM-powered products
 - 🌱 Currently exploring Multi-Agent Systems and Advanced AI Workflows
 - 🎥 Coding Educator & Technical Content Creator
-- ☁️ Experience with AWS, Docker, and production-ready deployments
+- ☁️ Experience with Docker, and production-ready deployments
 - 🔍 Passionate about AI automation, LLM applications, and scalable backend systems
 - ⚡ Focused on building production-ready software that delivers real-world impact
 
@@ -34,14 +34,13 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 
 ## 💼 What I Work With
 
-- Python & TypeScript
-- Flask & FastAPI
+- Python, TypeScript & JavaScript
+- FastAPI & Node.js, Express.js
 - React & Vite
-- Node.js & Express.js
-- PostgreSQL & MongoDB
-- LLMs & RAG Pipelines
+- PostgreSQL & SQL
+- LLMs, AI Agents & RAG Pipelines
 - OpenAI & Whisper
-- Docker & AWS
+- Docker
 
 
 
@@ -63,7 +62,6 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 ### Backend
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
 
@@ -83,7 +81,6 @@ Building AI-powered applications, intelligent agents, and scalable web platforms
 
 ### Cloud & DevOps
 
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
